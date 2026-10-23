@@ -38,7 +38,8 @@ Plug in the battery and stick it onto the sensor. Now you can mount the whole su
 Last but not least, mount the main buttons and screw them in. Congratulations, youre done! If you experience excessive pretravel you can heat up the "beams" of the main buttons (only if you are using certain plastics like PLA that melt easily and do not give of (very) toxic fumes) and bend them a little. 
 
 <img width="4032" height="3024" alt="Finished mouse" src="https://github.com/user-attachments/assets/60a959a0-d391-4516-a68d-f6b0743866a8" />
-<img width="180" height="240" alt="jm06fm10nnvh1" src="https://github.com/user-attachments/assets/757650f0-fa9b-441e-9fa0-09ab2acd44ad" />
+<img width="2880" height="3840" alt="jm06fm10nnvh1" src="https://github.com/user-attachments/assets/61a3a0f3-b6d5-493f-b168-1151ef0c82a5" />
+
 
 
 ## Notes
