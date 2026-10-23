@@ -1,5 +1,5 @@
-# ATK-VXE-R1SE-Fingertip-mod
-Fingertip Mouse mod for the ATK VXE R1SE+ PCB, featuring a flared pinky rest for a relaxed grip. Read through the whole README before starting.
+# ATK-VXE-R1SE/R1PRO-Fingertip-mod
+Fingertip Mouse mod for the ATK VXE R1SE+/R1PRO PCB, featuring a flared pinky rest for a relaxed grip. Read through the whole README before starting.
   
 ## Things you will need: 
 - a suitable screwdriver
@@ -13,6 +13,7 @@ Fingertip Mouse mod for the ATK VXE R1SE+ PCB, featuring a flared pinky rest for
 ## Assembly
 ### 1. Download and print all of the STL files.
 I recommend rotating the main buttons 90 degrees if you are printing on a FDM to make sure they feel smooth. Dont forget the supports!
+for the R1 Pro, use the different STEP files for the Base and Support. 
 
 <img width="530" height="361" alt="image" src="https://github.com/user-attachments/assets/f414c1e5-1c12-423f-ae84-0c888050708d" />
 
@@ -37,9 +38,12 @@ Plug in the battery and stick it onto the sensor. Now you can mount the whole su
 Last but not least, mount the main buttons and screw them in. Congratulations, youre done! If you experience excessive pretravel you can heat up the "beams" of the main buttons (only if you are using certain plastics like PLA that melt easily and do not give of (very) toxic fumes) and bend them a little. 
 
 <img width="4032" height="3024" alt="Finished mouse" src="https://github.com/user-attachments/assets/60a959a0-d391-4516-a68d-f6b0743866a8" />
+<img width="180" height="240" alt="jm06fm10nnvh1" src="https://github.com/user-attachments/assets/757650f0-fa9b-441e-9fa0-09ab2acd44ad" />
+
 
 ## Notes
-- I printed my mouse out of PLA using a Bambu Lab P1S with 0.2mm layer height and standard settings
+- I printed my mouse out of PLA using a Bambu Lab P1S with 0.2mm layer height and standard settings. R1 Pro depicted in the pictures has been printed with PA12. 
 - Due to the difference in printers and filaments I cannot gurantee that this model works with your setup. I believe in most cases some glue and sandpaper should do the job though.
 - The finished mouse might not look 100% like the one in the pictures as I updated some things for better fit.
-- This design will probably not work with any other R1 series mice due to the difference in sensors, PCBs (and lenses). Feel free to modify it for those. 
+- This design will probably not work with any other R1 series mice due to the difference in sensors, PCBs (and lenses). Feel free to modify it for those.
+- Design alteration for the R1 Pro has been done by Axakira (u/axakira on reddit), big thanks to them!
