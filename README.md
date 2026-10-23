@@ -1,4 +1,4 @@
-# ATK-VXE-R1SE/R1PRO-Fingertip-mod
+# ATK-VXE-R1SE+/R1PRO-Fingertip-mod
 Fingertip Mouse mod for the ATK VXE R1SE+/R1PRO PCB, featuring a flared pinky rest for a relaxed grip. Read through the whole README before starting.
   
 ## Things you will need: 
