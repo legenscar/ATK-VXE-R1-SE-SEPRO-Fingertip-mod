@@ -22,6 +22,7 @@ Be careful not to rip the side PCB ribbons. Keep the screws and keep track of th
   
 ### 3. Assemble the shell
 First, screw the PCB onto the base. Dont forget to put the lense underneath first.
+Beware: the R1 pro has a different sensor lense, battery connector and PCB screw hole locations.
 
 <img width="4096" height="3072" alt="Base with PCB" src="https://github.com/user-attachments/assets/74687047-afa0-4ecb-9df2-0f963f2baf24" />
 
