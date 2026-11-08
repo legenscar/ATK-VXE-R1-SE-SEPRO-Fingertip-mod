@@ -48,4 +48,4 @@ Last but not least, mount the main buttons and screw them in. Congratulations, y
 - Due to the difference in printers and filaments I cannot gurantee that this model works with your setup. I believe in most cases some glue and sandpaper should do the job though.
 - The finished mouse might not look 100% like the one in the pictures as I updated some things for better fit.
 - This design will probably not work with any other R1 series mice due to the difference in sensors, PCBs (and lenses). Feel free to modify it for those.
-- Design alteration for the R1 Pro has been done by Axakira (u/axakira on reddit), big thanks to them!
+- Design alteration have been done by Axakira (u/axakira on reddit) and HappyFuming, big thanks to them!
